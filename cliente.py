@@ -20,12 +20,10 @@ while True:
         s.send(x.encode())
         s.close()
         break
-   print(x)
    s.send(x.encode())
    print("Mensagem enviada")
    print('Esperando resposta')
    data = s.recv(1024)
-   print(data.decode())
    if data.decode() == 'SAIR':
         print('Conexão encerrada.')
         s.close()
