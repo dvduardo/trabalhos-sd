@@ -1,13 +1,10 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dvduardo/trabalhos-sd">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dvduardo/trabalhos-sd">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dvduardo/trabalhos-sd\PingPong">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dvduardo/trabalhos-sd\PingPong">
   <a href="https://www.linkedin.com/in/dvduardo/">
     <img alt="Feito pela David" src="https://img.shields.io/badge/feito%20por-David-%237519C1">
   </a>
 
-# SISTEMAS DISTRIBUIDOS
-Serão adicionados nesse repositorio todos os trabalhos solicitados na materia de Sistemas Distribuidos
-  
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina o [PYTHON](https://www.python.org/downloads)
