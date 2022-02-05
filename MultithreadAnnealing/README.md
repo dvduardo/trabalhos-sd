@@ -11,8 +11,11 @@ Antes de começar, você vai precisar ter instalado em sua máquina o [PYTHON](h
 
 # Multithreads aneladas(cliente-servidor)
 Segundo projeto para a materia onde é necessario criar 30 threads e faça com que uma mensagem circule entre os mesmos
-
-
+  
+  
+#Video de explicação do codigo
+  
+  https://drive.google.com/file/d/1Eo7ZXy4p3xXb4HGGdX2jYcJy9cRrfwl8/view?usp=sharing
 
 
 
