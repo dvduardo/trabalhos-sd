@@ -29,10 +29,12 @@ class thread(threading.Thread):
                         break
 
                 if find:
-                    print(f'im #{self.id} --- {self.texto}')
+                    print(f'Thread {self.id}\n\tpalavra: {self.texto}')
+                    time.sleep(1)
                     self.acordado = False
                     self.proximo.acordaProximo(self.texto)
                 else:
+                    print(f'Texto FINAL --- {self.texto}')
                     self.finalizado = True
 
         self.proximo.finalizado = True
@@ -57,7 +59,7 @@ class Anel:
 
 
 def main():
-    aneis = int(input('Digite a quantidade de anel para a thread:\n'))
+    aneis = int(input('Digite a quantidade de aneis para a thread:\n'))
     anel = Anel(aneis)
 
     texto = input('Digite um texto:\n')
