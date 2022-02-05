@@ -22,6 +22,15 @@ Segundo projeto para a materia onde é necessario criar 30 threads e faça com q
 #Video de explicação do codigo
   
   https://drive.google.com/file/d/1Eo7ZXy4p3xXb4HGGdX2jYcJy9cRrfwl8/view?usp=sharing
+  
+## 🚀 Como executar o projeto
+  
+  
+1. Extraia o projeto para sua maquina.
+2. Dentro da pasta, abra o prompts de comando (CMD) e digite o seguinte comando e clique ENTER:`python anel-multithread.py`
+3. Digite a quantidade de threads que gostaria de produzir e clique ENTER
+4. Digite um texto todo em letras minusculas e clique ENTER
+---
 
 
 
