@@ -1,6 +1,4 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dvduardo/trabalhos-sd\MultithreadAnnealing">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dvduardo/trabalhos-sd\MultithreadAnnealing">
   <a href="https://www.linkedin.com/in/dvduardo/">
     <img alt="Feito pela David" src="https://img.shields.io/badge/feito%20por-David-%237519C1">
   </a>
